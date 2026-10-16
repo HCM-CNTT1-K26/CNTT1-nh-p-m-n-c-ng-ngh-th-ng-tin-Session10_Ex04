@@ -33,5 +33,3 @@ Mô hình **IPO** viết tắt của **Input (Đầu vào) - Process (Xử lý) 
 | **Input (Đầu vào)** | Thông tin nhận được từ môi trường | Cảm biến độ ẩm đo thấy đất đang khô (độ ẩm dưới 30%). |
 | **Process (Xử lý)** | Bộ não trung tâm phân tích dữ liệu | Vi điều khiển so sánh dữ liệu và quyết định cần phải tưới nước. |
 | **Output (Đầu ra)** | Hành động thực tế của hệ thống | Máy bơm tự động bật lên để tưới nước cho cây. |
-
-> **Tóm lại:** Trang trại thông minh dùng cảm biến để quan sát (Input), máy tính suy nghĩ (Process), và máy móc thực hiện hành động (Output) một cách hoàn toàn tự động!
