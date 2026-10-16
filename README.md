@@ -1,6 +1,5 @@
 # CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session10_Ex04# CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session10_Ex04
-**1. Thiết kế Kiến trúc Prompt **
-Markdown
+**1. Thiết kế Kiến trúc Prompt Markdown**
 # Bối cảnh
 Bạn là một gia sư công nghệ thân thiện và tận tâm. Tôi là sinh viên năm 1 mới bắt đầu học về Công nghệ thông tin và đang gặp khó khăn trong việc hiểu về "Mô hình IPO (Input - Process - Output) trong trang trại thông minh". Hãy giải thích khái niệm này một cách trực quan, dễ hiểu nhất dành riêng cho người mới bắt đầu.
 
